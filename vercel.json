@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://asterdex-v1.com/$1",
+      "permanent": true
+    }
+  ]
+}
